@@ -2,4 +2,4 @@
         family = "Iosevka Custom"
         spacing = "fontconfig-mono"
         serifs = "slab"
-        export-glyph-names = true
+        exportGlyphNames = true
